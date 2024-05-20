@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/pizzaworld/project1.css">
+</head>
+<body>
+    <section id ="HOME">
+        <nav>
+
+        <div class="logo">
+            <a href="project1.html"><img src="pizzaworld.png" ></a>
+        </div>
+
+        <ul>
+            <li><a href="project1.html" class="action">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Menu</a></li>
+            <li><a href="#">Gallery</a></li>
+            <li><a href="#">Blog</a></li>
+        </ul>
+
+        <div class="login">
+            <a href="#">login</a>
+        </div>
+     </nav>
+
+     <div class="main">
+
+        <div class="main_text">
+            <h1>Get Fresh <span>Food</span><br>in a Easy way</h1>
+
+            <p>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
+                Assumenda aut earum quasi deleniti iure officia aliquam voluptatem praesentium vitae. 
+                Doloribus facilis pariatur nulla qui incidunt repellat voluptatem vero ratione nesciunt.
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                Quis quasi maiores minus incidunt
+                beatae accusamus totam dolore veritatis provident enim nisi non dignissimos iure repudiandae a, eaque, impedit dolorem nihil!
+            </p>
+
+            <!-- <img src="/pizzaworld/pizza background image.jpg" alt="pizza" height="300" width="300"> -->
+        </div>
+
+        <div class="main_image">
+            <!-- <img src="/pizzaworld/pizza1.jpg" alt="pizza image" > -->
+            <img src="/pizzaworld/pizza gif.gif" alt="pizza" height="300" width="300">
+             
+        </div>
+     </div>
+    </section>
+</body>
+</html>
